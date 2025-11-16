@@ -1,36 +1,64 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<h1 align="center">Hi 👋, I'm Sujit sah</h1>
+
+<h1 align="center">I'm Sujit Sah</h1>
 <h3 align="center">Cybersecurity & Full-Stack Development Enthusiast</h3>
 
 <p align="center">
   🔥 Learning Bug Bounty | 🛡️ Cybersecurity Student | 💻 Full-Stack Developer  
 </p>
 
+---
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **Bug Bounty, XSS, Python, JavaScript, SQL, PHP**
 - 🛡️ Interested in **Cybersecurity, Reverse Engineering & Malware Analysis**
-- ⚙️ Currently building: **Security automation tools
+- ⚙️ Currently building: **Security automation tools**
 - 🎯 Goal: Become a **Skilled Bug Bounty Hunter & Full-Stack Developer**
 
 ---
 
-### 🛠️ Skills
-**Languages:**  
-`Python` `JavaScript` `C` `C#` `PHP` `SQL`  
+## 🛠️ Skills
 
-**Cybersecurity Skills:**  
+### **Languages**
+`Python` `JavaScript` `C` `C#` `PHP` `SQL`
+
+---
+
+## 🚀 &nbsp;Some Tools I Have Used and Learned
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+### **Cybersecurity Skills**
 `Nmap` `Burp Suite` `Wireshark` `Metasploit` `OWASP Testing` `Reverse Engineering Basics`
 
-**Development Skills:**  
-`HTML` `CSS` `React` `Node.js` `Flask` `MongoDB` `MySQL`
+### **Development Skills**
+`HTML` `CSS` `React` `Node.js` `Flask` `MongoDB` `MySQL` `Figma`
 
+---
 
-### 🚀 Projects
+## 🚀 Projects
 - 🔹 **Automation Tools** – Cookie checkers, scrapers, bug-hunting helpers  
 - 🔹 **Web Apps** – Authentication systems, API projects  
 
-<p align="center"><b>⭐ If you like my work, consider giving my repositories a star!</b></p>
+---
 
+<p align="center"><b>⭐ If you like my work, consider giving my repositories a star!</b></p>
