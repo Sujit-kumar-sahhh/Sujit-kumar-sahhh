@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sujit sah</h1>
 <h3 align="center">Cybersecurity & Full-Stack Development Enthusiast</h3>
 
@@ -9,9 +12,8 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **Bug Bounty, XSS, Python, JavaScript, SQL, PHP**
 - 🛡️ Interested in **Cybersecurity, Reverse Engineering & Malware Analysis**
-- ⚙️ Currently building: **Security automation tools + Telegram bots**
+- ⚙️ Currently building: **Security automation tools
 - 🎯 Goal: Become a **Skilled Bug Bounty Hunter & Full-Stack Developer**
-- 📫 How to reach me: **your-email@example.com**
 
 ---
 
@@ -27,7 +29,8 @@
 
 
 ### 🚀 Projects
-- 🔹 **Telegram TeraBox Bot** – Download/Stream videos + auto-delete  
 - 🔹 **Automation Tools** – Cookie checkers, scrapers, bug-hunting helpers  
 - 🔹 **Web Apps** – Authentication systems, API projects  
-- 🔹 **Cybersecurity Scripts** – Port scanners, brute-force simulations  
+
+<p align="center"><b>⭐ If you like my work, consider giving my repositories a star!</b></p>
+
