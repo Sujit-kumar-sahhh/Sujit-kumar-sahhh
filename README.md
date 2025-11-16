@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+Sujit+Sah;Cybersecurity+Student;Full-Stack+Developer;Bug+Bounty+Learner;Welcome+to+my+GitHub!">
+</p>
+
+<p align="center">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN5Nmc5cTRpcnRxZnV5MWVrbjdhaHlhOWhod2xyenFpM3Jjb25hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600">
+</p>
+
+---
+
 ### Hi there 👋
 
 <h1 align="center">I'm Sujit Sah</h1>
@@ -58,6 +68,36 @@
 ## 🚀 Projects
 - 🔹 **Automation Tools** – Cookie checkers, scrapers, bug-hunting helpers  
 - 🔹 **Web Apps** – Authentication systems, API projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujit-kumar-sahhh&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit-kumar-sahhh&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujit-kumar-sahhh&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujit-kumar-sahhh&theme=tokyonight&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujit-kumar-sahhh&style=for-the-badge" />
+</p>
 
 ---
 
